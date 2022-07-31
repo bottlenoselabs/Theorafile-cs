@@ -6,9 +6,6 @@
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
         <RootNamespace />
     </PropertyGroup>
-    <ItemGroup>
-      <Compile Remove="FAudio.Extensions.cs" />
-    </ItemGroup>
 
     <Import Project="$(MSBuildThisFileDirectory)/../../../../Theorafile.props" />
 
