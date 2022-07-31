@@ -4,6 +4,6 @@
     "cs": {
         "output_file": "../Theorafile.cs",
         "namespace": "bottlenoselabs",
-        "library_name": "Theorafile"
+        "library_name": "theorafile"
     }
 }
