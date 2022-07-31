@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/bottlenoselabs/c2cs/main/schema.json",
+  "directory": "./ast",
+  "c": {
+    "input_file": "../ext/Theorafile/theorafile.h",
+    "user_include_directories": [
+      "../ext/Theorafile",
+      "../ext/Theorafile/lib"
+    ],
+    "platforms": {
+      "aarch64-pc-windows-msvc": {},
+      "x86_64-pc-windows-msvc": {}
+    }
+  }
+} 

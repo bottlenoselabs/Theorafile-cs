@@ -1,0 +1,9 @@
+{
+    "$schema": "https://raw.githubusercontent.com/bottlenoselabs/c2cs/main/schema.json",
+    "directory": "./ast",
+    "cs": {
+        "output_file": "../Theorafile.cs",
+        "namespace": "bottlenoselabs",
+        "library_name": "Theorafile"
+    }
+}
