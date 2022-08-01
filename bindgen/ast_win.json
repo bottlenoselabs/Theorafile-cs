@@ -25,6 +25,16 @@
       "tf_reset",
       "tf_readvideo",
       "tf_readaudio"
+    ],
+    "opaque_types": [
+      "oggpack_buffer",
+      "vorbis_dsp_state",
+      "OggTheora_File",
+      "ogg_page",
+      "ogg_packet",
+      "vorbis_block",
+      "ogg_stream_state"
+      "vorbis_info"
     ]
   }
 } 
