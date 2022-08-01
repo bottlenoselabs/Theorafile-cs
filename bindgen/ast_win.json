@@ -33,7 +33,7 @@
       "ogg_page",
       "ogg_packet",
       "vorbis_block",
-      "ogg_stream_state"
+      "ogg_stream_state",
       "vorbis_info"
     ]
   }
