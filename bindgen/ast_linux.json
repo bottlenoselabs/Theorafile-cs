@@ -10,6 +10,16 @@
     "platforms": {
       "aarch64-unknown-linux-gnu": {},
       "x86_64-unknown-linux-gnu": {}
-    }
+    },
+    "opaque_types": [
+      "oggpack_buffer",
+      "vorbis_info",
+      "ogg_page",
+      "OggTheora_File",
+      "ogg_packet",
+      "ogg_stream_state",
+      "vorbis_block",
+      "vorbis_dsp_state"
+    ]
   }
 }

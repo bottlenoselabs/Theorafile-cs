@@ -10,6 +10,16 @@
     "platforms": {
       "aarch64-pc-windows-msvc": {},
       "x86_64-pc-windows-msvc": {}
-    }
+    },
+    "opaque_types": [
+      "oggpack_buffer",
+      "vorbis_info",
+      "ogg_page",
+      "OggTheora_File",
+      "ogg_packet",
+      "ogg_stream_state",
+      "vorbis_block",
+      "vorbis_dsp_state"
+    ]
   }
 } 
